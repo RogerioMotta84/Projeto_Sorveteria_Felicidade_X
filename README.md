@@ -29,4 +29,6 @@ o	(DICA: utilizar o break dentro if que verifica a opção sair)
 
 Segue o exemplo de SAIDA DE CONSOLE:
 
-![Tela do Sistema](./Imagem/Projeto_Sorveteria_Felicidade_X.png)
+![Captura de telado programa](./Imagem/Projeto%20Sorveteria%20Felicidade%20X.png)
+
+
