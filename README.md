@@ -3,14 +3,11 @@
 Você e sua equipe de programadores foram contratados para desenvolver um app de vendas para uma sorveteria. Você ficou com a parte de desenvolver a interface do cliente para retirada do produto.
 A Sorveteria possui seguinte tabela com o código, descrição, tamanhos e os valores de sorvete:
 
-| Código	 | Descrição   | Tamanho P | Tamanho M | Tamanho G |
-|          |             |  (500ml)  | (1000ml)  |  (2000ml) |
-|   TR     | Sabores     |                                   |
-|          | Tradicionais|	R$ 6,00  |	R$ 10,00 | R$ 18,00  |
-|   ES     |	Sabores    |                                   |
-|          | Especiais   |	R$ 7,00  |	R$ 12,00 | R$ 21,00  |
-|   PR	   | Sabores     |                                   |
-|          | Premium     | R$ 8,00  |  R$ 14,00  | R$ 24,00  |
+| Código | Descrição   | Tamanho P (500ml) | Tamanho M (1000ml) | Tamanho G (2000ml) |
+|--------|-------------|-------------------|--------------------|--------------------|
+| TR     | Sabores     | R$ 6,00           | R$ 10,00           | R$ 18,00           |
+| ES     | Sabores     | R$ 7,00           | R$ 12,00           | R$ 21,00           |
+| PR     | Sabores     | R$ 8,00           | R$ 14,00           | R$ 24,00           |
 
 **Elabore um programa em Python que:**
 
